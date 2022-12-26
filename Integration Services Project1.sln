@@ -7,6 +7,8 @@ Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Integration Services Projec
 EndProject
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Integration Services Project2", "Integration Services Project2\Integration Services Project2.dtproj", "{C8F71CAD-022E-40FB-BD0E-5609221DC2E8}"
 EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Third Project", "Integration Services Project3\Third Project.dtproj", "{CE871A8D-883B-470C-A75F-6B109EBB5550}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
@@ -16,6 +18,8 @@ Global
 		{5248CF25-A4E1-4237-859A-3F88B06941D1}.Development|Default.Build.0 = Development
 		{C8F71CAD-022E-40FB-BD0E-5609221DC2E8}.Development|Default.ActiveCfg = Development
 		{C8F71CAD-022E-40FB-BD0E-5609221DC2E8}.Development|Default.Build.0 = Development
+		{CE871A8D-883B-470C-A75F-6B109EBB5550}.Development|Default.ActiveCfg = Development
+		{CE871A8D-883B-470C-A75F-6B109EBB5550}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
